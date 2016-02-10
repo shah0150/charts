@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+canvas {
+    border: 2px dashed #333;
+}
+#canvas1 {
+    width: 50%;
+    display: inline;
+}
+#canvas2 {
+    width: 50%;
+    display: inline;
+    float: right;
+}
